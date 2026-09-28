@@ -1,0 +1,235 @@
+# 文化祭
+SCHOOL FESTIVAL\nCome to our school on Saturday, November 7, from ten to three. The music club will play in the gym at eleven. You can buy food in the school garden. Please do not bring your pets. Students and their families can enter for free.
+Where will the music club play?|In the gym.|In the garden.|In the library.|At the station.|in the gym が演奏場所。
+What can visitors do in the garden?|Buy food.|Listen to the music club.|Bring their pets.|Buy school uniforms.|buy food in the school garden とある。
+How much do students' families pay to enter?|Nothing.|100 yen.|300 yen.|500 yen.|for free は無料。
+# 本を返すメール
+Hi Max,\nThank you for lending me your book about space. I finished it last night. The pictures of the moon were my favorite part. I will bring it to school on Monday. I can give it to you after our math class.\nLily
+What is the book about?|Space.|Cooking.|Sports.|Music.|about space がテーマ。
+What did Lily like best?|The pictures of the moon.|The math problems.|The story about a dog.|The page about food.|月の写真が my favorite part。
+When will Lily give Max the book?|After math class on Monday.|Before school on Sunday.|During lunch on Friday.|After dinner on Saturday.|Monday と after math class を合わせる。
+# 新しいパン屋
+SUNNY BAKERY\nOur new shop opens on April 5. We sell bread and cakes, but we do not sell sandwiches. We open at seven every morning and close at six in the evening. On our first day, every customer will get one small cookie for free.
+What does the bakery sell?|Bread and cakes.|Sandwiches and juice.|Rice and fish.|Vegetables and fruit.|bread and cakes を販売する。
+How many hours is the bakery open each day?|Eleven hours.|Seven hours.|Nine hours.|Thirteen hours.|午前7時から午後6時まで11時間。
+What will customers get on April 5?|A small cookie.|A sandwich.|A large cake.|A free drink.|開店初日にクッキーをもらえる。
+# 雨の日の変更
+Dear club members,\nWe planned to draw flowers in the park this Thursday. However, it will rain, so please come to Room 204 instead. Bring colored pencils. Ms. Brown will show us how to draw fruit. The meeting will start at four as usual.\nArt Club
+Why did the club change its plan?|Because of the rain.|Because the park is closed.|Because Ms. Brown is sick.|Because there are no pencils.|it will rain が理由。
+Where should members go?|Room 204.|The park.|The school garden.|Ms. Brown's house.|instead はその代わりに。
+What will members learn to draw?|Fruit.|Flowers.|Animals.|Houses.|変更後は draw fruit。
+# 初めての料理
+On Mother's Day, Leo decided to cook breakfast. He wanted to make pancakes, but there was no milk. He made egg sandwiches instead. His little sister set the table. Their mother was surprised and happy. She said the sandwiches were delicious.
+Why didn't Leo make pancakes?|There was no milk.|He had no eggs.|His sister ate them.|His mother disliked them.|牛乳がなかったため。
+How did Leo's sister help?|She set the table.|She bought milk.|She made pancakes.|She washed the windows.|set the table は食卓を準備する。
+How did their mother feel?|Surprised and happy.|Angry and tired.|Bored and sleepy.|Afraid and lonely.|surprised and happy と明記。
+# 水泳教室
+SUMMER SWIMMING LESSONS\nFor children aged ten to fifteen. Lessons are on Tuesdays and Thursdays, from two to three. Each lesson costs 500 yen. Bring a swimsuit, a towel, and water. Parents can watch from the seats by the pool, but they cannot join the lessons.
+Who can join the lessons?|Children aged ten to fifteen.|Only parents.|Children under five.|Only school teachers.|対象は10〜15歳。
+How often are the lessons held?|Twice a week.|Every day.|Once a month.|Three times a week.|火曜と木曜なので週2回。
+What can parents do?|Watch the lessons.|Join the lessons.|Use the pool for free.|Teach every class.|親は見学できるが参加はできない。
+# 忘れ物
+LOST AND FOUND\nA blue umbrella was found outside the library on Wednesday afternoon. It has small white stars on it. If it is yours, please come to the school office before Friday. Ask Mr. Green. The library staff do not have the umbrella now.
+Where was the umbrella found?|Outside the library.|Inside the gym.|At the bus stop.|In a classroom.|発見場所は図書館の外。
+What does the umbrella look like?|Blue with white stars.|White with blue flowers.|Green with yellow stars.|Black with red circles.|青色に白い星の模様。
+Where should the owner go now?|The school office.|The library desk.|The station.|Mr. Green's home.|受取場所は school office。
+# 祖父の訪問
+Hi Mia,\nI can't go shopping with you on Sunday. My grandfather is coming from Canada, and we will meet him at the airport. He will stay with us for two weeks. Are you free on Saturday instead? I need a new bag for school.\nChloe
+Why can't Chloe go shopping on Sunday?|She will meet her grandfather.|She has an exam.|She is going to Canada.|She has to buy food.|空港に祖父を迎えに行くため。
+How long will her grandfather stay?|Two weeks.|Two days.|One month.|Three months.|for two weeks が期間。
+What does Chloe want to buy?|A school bag.|A plane ticket.|A coat.|A watch.|a new bag for school が必要。
+# 自転車の修理
+Noah rides his bicycle to school. One morning, he found that its front tire was flat. He walked to school and was ten minutes late. After school, his neighbor helped him repair the tire. Noah thanked him and washed his neighbor's bicycle the next day.
+Why did Noah walk to school?|His bicycle had a flat tire.|He lost his bicycle.|It was snowing.|His neighbor borrowed his bicycle.|前輪がパンクしていた。
+Who helped Noah repair the bicycle?|His neighbor.|His teacher.|His father.|His classmate.|neighbor は近所の人。
+What did Noah do the next day?|He washed his neighbor's bicycle.|He bought a new bicycle.|He took a bus.|He repaired his teacher's bicycle.|翌日お礼に自転車を洗った。
+# 動物園の案内
+CITY ZOO\nWinter opening hours: 9:30 a.m.–4:00 p.m.\nThe zoo is closed every Monday. The animal show starts at one in the afternoon. Adults pay 800 yen and children pay 400 yen. Children under six can enter for free. Please do not feed the animals.
+On which day is the zoo closed?|Monday.|Saturday.|Sunday.|Friday.|every Monday が休園日。
+When does the animal show start?|At 1:00 p.m.|At 9:30 a.m.|At 4:00 p.m.|At noon.|one in the afternoon は午後1時。
+How much do one adult and one ten-year-old child pay?|1,200 yen.|800 yen.|400 yen.|1,600 yen.|800円と400円の合計。
+# 英語クラブ
+Hi everyone,\nWe have two new students in our English club. Let's welcome them next Friday. Please meet in the library at four. We will play word games and introduce our favorite books. You don't have to bring any food. I will bring cookies for everyone.\nMs. White
+Why will the club have a meeting?|To welcome new students.|To clean the library.|To sell books.|To practice a song.|新しい生徒の歓迎会。
+What will students introduce?|Their favorite books.|Their families.|Their favorite foods.|Their pets.|favorite books を紹介する。
+Who will bring cookies?|Ms. White.|The two new students.|Every student.|The librarian.|差出人の I will bring に注目。
+# 犬の散歩
+Dad,\nI'm going to study with Alex at his house. I'll be home by six. I already fed our dog, but I didn't take him for a walk because it was raining. Could you walk him before dinner? Your umbrella is beside the door.\nSam
+Where is Sam going?|To Alex's house.|To the library.|To the park.|To his grandmother's house.|Alex の家で勉強する。
+What has Sam already done?|Fed the dog.|Walked the dog.|Cooked dinner.|Cleaned the door.|already fed はえさを与えた。
+What does Sam ask Dad to do?|Walk the dog.|Buy an umbrella.|Call Alex.|Study with him.|散歩をお願いしている。
+# 花を育てる
+Sofia planted some sunflower seeds in April. She put the pots near a sunny window and watered them every morning. In June, the plants became too big for the pots. Her father helped her move them to the garden. In August, she took pictures of the yellow flowers.
+When did Sofia plant the seeds?|In April.|In June.|In August.|In December.|種まきは April。
+Why did she move the plants?|They became too big for the pots.|They needed less sun.|She lost the pots.|The garden had no water.|鉢には大きくなりすぎたため。
+What did Sofia do in August?|She took pictures of the flowers.|She planted seeds.|She bought new pots.|She moved to a new house.|8月に花の写真を撮った。
+# バスの案内
+BUS TO LAKE PARK\nBuses leave East Station at 9:00, 10:00, and 11:00 in the morning. The trip takes thirty minutes. A one-way ticket is 300 yen. Buy your ticket from the driver. The last bus back to the station leaves the park at 5:00 p.m.
+When will the 10:00 bus arrive at Lake Park?|At 10:30.|At 10:00.|At 11:00.|At 11:30.|10時発で30分かかる。
+Where can passengers buy a ticket?|From the driver.|At the park shop.|At the library.|Only online.|運転手から購入する。
+When does the last bus leave the park?|At 5:00 p.m.|At 11:00 a.m.|At 9:00 a.m.|At 6:30 p.m.|帰りの最終便は午後5時。
+# 誕生日の招待
+Dear Ryan,\nMy birthday party is on Sunday, June 14, from one to four. We will have it in my garden, but if it rains, we will use the living room. Please bring your favorite card game. My dad will make pizza, so you don't need lunch.\nOliver
+How long will the party last?|Three hours.|One hour.|Two hours.|Four hours.|1時から4時で3時間。
+Where will the party be if it rains?|In the living room.|At school.|At a restaurant.|In the garden.|雨なら living room。
+What should Ryan bring?|A card game.|Pizza.|Lunch.|A garden chair.|カードゲームを持参する。
+# 小さな親切
+On her way home, Grace saw an old woman carrying two heavy bags. Grace offered to carry one bag. They walked to the woman's house together. The woman gave Grace an orange to thank her. Grace was happy because she could help someone in her town.
+What was the woman's problem?|Her bags were heavy.|She lost her keys.|She missed a train.|She had no food.|heavy bags が困りごと。
+How did Grace help?|She carried one bag.|She called a taxi.|She bought bags.|She opened a shop.|かばんを1つ持ってあげた。
+Why was Grace happy?|She could help someone.|She won a contest.|She found her bag.|She met her teacher.|because から気持ちの理由を読む。
+# ロボット展示
+ROBOT EXHIBITION\nCity Science Museum, July 1–20\nSee robots that cook, dance, and play music. The cooking robot works at eleven each morning. You may take pictures, but please do not touch the robots. Tickets are 600 yen. Keep your ticket if you want to enter again on the same day.
+What can visitors see at eleven?|A robot cooking.|A robot swimming.|A robot flying.|A robot painting.|11時に料理ロボットが動く。
+What are visitors allowed to do?|Take pictures.|Touch the robots.|Take robots home.|Feed the robots.|写真はよいが触るのは禁止。
+Why should visitors keep their tickets?|To enter again that day.|To get free food.|To buy a robot.|To take a bus for free.|当日再入場に必要。
+# クラブの選択
+Jack liked both soccer and music. He wanted to join the soccer club, but its practice was on the same days as his piano lessons. He chose the music club instead. Now he plays the piano with other students every Wednesday. He still plays soccer with his friends on weekends.
+Why didn't Jack join the soccer club?|Practice was on his piano lesson days.|He disliked the coach.|There were no balls.|He could not run.|ピアノの予定と重なった。
+What does Jack do on Wednesdays?|Plays music with other students.|Plays soccer with his coach.|Works in a shop.|Teaches his parents.|音楽クラブでピアノを弾く。
+When does Jack still play soccer?|On weekends.|Every Wednesday.|Every morning.|Only in summer.|週末にはサッカーも続ける。
+# ホテルの案内
+WELCOME TO HILL HOTEL\nBreakfast is served in the dining room from seven to nine. There is free tea in your room. Please leave your room by ten on your last day. If you need a taxi, ask at the front desk. The hotel shop closes at eight in the evening.
+Where is breakfast served?|In the dining room.|In guest rooms.|At the front desk.|In the shop.|朝食は dining room。
+By what time must guests leave on their last day?|Ten in the morning.|Seven in the morning.|Eight in the evening.|Nine in the evening.|by ten は10時まで。
+What should guests do if they need a taxi?|Ask at the front desk.|Call the shop.|Wait in the dining room.|Ask another guest.|フロントに頼む。
+# ペンフレンド
+Hello Hana,\nMy name is Lucy. I live in a small town in Australia. Our summer is from December to February. I love swimming in the sea with my brother. I want to learn about winter in Japan. Does it snow in your town? Please tell me about it.\nLucy
+Who does Lucy swim with?|Her brother.|Her mother.|Her teacher.|Her cousin.|with my brother とある。
+What does Lucy want to learn about?|Winter in Japan.|Schools in Canada.|Food in Australia.|Summer in France.|日本の冬に興味がある。
+What does Lucy ask Hana?|Whether it snows in her town.|How old her brother is.|When school begins.|Where she buys books.|雪が降るか尋ねている。
+# 映画館
+Ben and his sister planned to see a movie at two. They reached the theater at one thirty, but all the tickets were sold out. They bought tickets for the four o'clock show. While they waited, they visited a bookshop next door and had a snack at a cafe.
+When did they reach the theater?|At 1:30.|At 2:00.|At 3:30.|At 4:00.|到着は one thirty。
+Why did they buy tickets for four o'clock?|The two o'clock show was sold out.|They wanted to sleep.|The theater opened at four.|Their sister was late.|2時の回が売り切れだった。
+What did they do while waiting?|Visited a bookshop and a cafe.|Went home and cooked.|Played soccer.|Visited a museum.|待つ間の2つの行動。
+# 家事の分担
+OUR FAMILY'S SATURDAY JOBS\nDad: Clean the bathroom.\nMom: Buy food for dinner.\nNina: Wash the dishes and water the flowers.\nPaul: Clean his bedroom and feed the cat.\nPlease finish by eleven. We will go to the park together after lunch.
+Who will buy food?|Mom.|Dad.|Nina.|Paul.|Mom の担当を読む。
+What must Paul do?|Clean his bedroom and feed the cat.|Wash dishes and buy food.|Clean the bathroom.|Water the flowers.|Paul の2つの仕事。
+What will the family do after lunch?|Go to the park.|Start cleaning.|Go to the airport.|Buy a cat.|昼食後は公園へ行く。
+# 新聞の取材
+Dear Ms. King,\nWe are writing an article about the school garden for our newspaper. Could we ask you some questions after school on Tuesday? We want to know why you started the garden and which vegetables students grow there. We will bring a camera, too.\nThe Newspaper Club
+What is the article about?|The school garden.|School lunch.|A music concert.|A new library.|記事の題材は学校の庭。
+When do the students want to meet Ms. King?|After school on Tuesday.|Before school on Monday.|At lunch on Friday.|On Sunday morning.|火曜の放課後を希望。
+What do students want to know?|Why she started the garden.|Where she buys cameras.|How old her children are.|What newspaper she reads.|庭を始めた理由を知りたい。
+# 山歩き
+WALKING CLUB\nOur next walk is on May 10. Meet at West Station at eight. We will walk to the top of Blue Hill and eat lunch there. Wear comfortable shoes and bring your own food. If it rains heavily, we will cancel the walk and send you a message by seven.
+Where will the club eat lunch?|At the top of Blue Hill.|At West Station.|At a restaurant.|At school.|there は丘の頂上を指す。
+What should members bring?|Their own food.|A new phone.|A soccer ball.|A library book.|食べ物は各自持参。
+When will members get a message if the walk is canceled?|By seven.|At eight.|At noon.|After lunch.|中止連絡は7時までに届く。
+# 引っ越し
+Ella moved to a new town last month. At first, she missed her old friends. One day, a girl in her class invited her to play badminton after school. Ella enjoyed it and joined the badminton club. Now she has new friends, and she calls her old friends every Sunday.
+How did Ella feel at first?|She missed her old friends.|She disliked badminton.|She wanted a new phone.|She was excited about a test.|昔の友達に会えず寂しかった。
+What helped Ella make new friends?|Playing badminton.|Taking a train.|Visiting a museum.|Buying a phone.|クラブ参加が友達作りにつながった。
+How often does Ella call her old friends?|Every Sunday.|Every morning.|Once a year.|Only on birthdays.|毎週日曜に電話する。
+# 読書週間
+READING WEEK\nRead three books from our library during September and write a short comment about each one. Give your comments to the librarian by September 30. You will receive a bookmark. On October 3, a local writer will visit our library and talk about her newest book.
+How many books must participants read?|Three.|One.|Two.|Five.|three books を読む。
+What will participants receive?|A bookmark.|A new book.|A library card.|A free lunch.|bookmark はしおり。
+What will happen on October 3?|A writer will visit.|Reading Week will start.|The library will close.|Students will buy books.|地元の作家が来る。
+# 昼食を忘れた日
+Daniel forgot his lunch at home. He was worried because he had no money to buy food. His friend Eric shared some sandwiches with him. The next day, Daniel brought extra fruit for Eric. Daniel learned to check his bag before leaving home.
+Why was Daniel worried?|He had no lunch or money.|He was late.|He lost homework.|He missed an exam.|昼食も買うお金もなかった。
+What did Eric do?|Shared sandwiches.|Lent a bicycle.|Called Daniel's mother.|Bought a bag.|サンドイッチを分けた。
+What did Daniel learn to do?|Check his bag before leaving.|Cook dinner every night.|Bring money for everyone.|Buy sandwiches daily.|出かける前にかばんを確認する。
+# 音楽会
+SPRING CONCERT\nSaturday, March 21, at Community Hall. Doors open at 1:30 p.m. The concert begins at 2:00 p.m. Tickets are 700 yen in advance and 900 yen at the door. You can buy advance tickets at the town bookshop until Friday.
+When does the concert begin?|At 2:00 p.m.|At 1:30 p.m.|At noon.|At 9:00 a.m.|開場1時半と開演2時を区別。
+How much can you save by buying in advance?|200 yen.|100 yen.|700 yen.|900 yen.|900円−700円で200円。
+Where can you buy advance tickets?|At the town bookshop.|At school.|At a station cafe.|At the pool.|前売り券は書店で買える。
+# 道案内
+Hi Ava,\nTo get to my house, take bus number three from the station. Get off at Central Park. Walk past the park and turn right at the bakery. My house is the yellow one next to the flower shop. I'll wait outside at two.\nRuby
+Which bus should Ava take?|Number three.|Number two.|Number four.|Number ten.|number three が番号。
+Where should Ava turn right?|At the bakery.|At the station.|At the flower shop.|At the bus stop.|右折する目印はパン屋。
+How can Ava recognize Ruby's house?|It is yellow and next to a flower shop.|It is blue and by the station.|It is behind the park.|It is above the bakery.|黄色で花屋の隣。
+# 祖母の写真
+When Owen visited his grandmother, she showed him old photographs. One picture showed her standing beside a large ship. She told him that she had traveled to Japan by ship when she was twenty. Owen usually travels by plane, so he was surprised. He asked her many questions about the trip.
+What did Owen's grandmother show him?|Old photographs.|New clothes.|A model plane.|A dictionary.|古い写真を見せた。
+How did she travel to Japan?|By ship.|By plane.|By train.|By bus.|祖母は船で旅行した。
+Why was Owen surprised?|His grandmother traveled differently from him.|She forgot the trip.|He found his own picture.|He could not see the ship.|自分は飛行機なので船旅に驚いた。
+# プールの修理
+SPORTS CENTER NOTICE\nThe swimming pool will be closed from August 2 to August 8 for repairs. The gym and tennis courts will stay open. Swimming lessons during this week will be held at East School's pool. Please bring your membership card to enter the school pool.
+Why will the pool be closed?|For repairs.|For a party.|For a contest.|For winter vacation.|repairs は修理。
+Which facilities will remain open?|The gym and tennis courts.|Only the pool.|Only the shop.|The pool and cafe.|体育館とテニスコートは使える。
+What is needed to enter East School's pool?|A membership card.|A train ticket.|A library card.|A photo.|会員証を持参する。
+# お金をためる
+Isla wanted to buy a camera that cost 8,000 yen. She had 5,000 yen. She saved 500 yen each week instead of buying snacks. After six weeks, she had enough money. She bought the camera and took her first picture of her family in the garden.
+How much more money did Isla need?|3,000 yen.|500 yen.|5,000 yen.|8,000 yen.|8,000円−5,000円。
+How did Isla save money?|She stopped buying snacks.|She sold her camera.|She worked at a shop.|She borrowed money.|お菓子を買わずに節約。
+What was her first picture of?|Her family.|Her school.|A shop.|Some snacks.|最初に家族を撮影した。
+# 修学旅行
+Dear students,\nFor our trip next week, four students will share each room at the hotel. Please tell your teacher who you want to share with by Wednesday. The rooms have towels, but you must bring your own toothbrush. Breakfast will be at seven, and our bus will leave at eight thirty.
+How many students will share a room?|Four.|Two.|Three.|Five.|4人で1室。
+What must students bring?|A toothbrush.|A towel.|A pillow.|A blanket.|歯ブラシは持参、タオルは備え付け。
+What time will the bus leave?|At 8:30.|At 7:00.|At 7:30.|At 8:00.|朝食7時と出発8時半を区別。
+# 自然観察
+April 18\nToday our class went to a pond near school. We wanted to look for small fish, but we saw many frogs instead. Our teacher asked us to draw them in our notebooks. I forgot my pencil, so Haru lent me one. I want to visit the pond again with my family.
+What did the class want to find?|Small fish.|Large birds.|Flowers.|Butterflies.|当初の目的は小魚。
+What did the teacher ask students to do?|Draw the frogs.|Take frogs home.|Feed fish.|Clean the pond.|them はカエルを指す。
+How did Haru help the writer?|Lent a pencil.|Carried a notebook.|Drew all the frogs.|Found a bag.|one は鉛筆を指す。
+# 弁当の注文
+SCHOOL LUNCH ORDERS\nFriday's special lunch is chicken and rice for 450 yen. A vegetable lunch is also available for the same price. Please order by Thursday at noon. You can pay when you collect your lunch on Friday. Bring your own spoon. Drinks are not included.
+How much is the vegetable lunch?|450 yen.|300 yen.|500 yen.|900 yen.|same price は同じ450円。
+When must students order?|By Thursday at noon.|On Friday evening.|By Monday morning.|On Saturday.|注文は木曜正午まで。
+What must students bring?|A spoon.|Rice.|A plate.|Chicken.|スプーンは各自持参。
+# お城への遠足
+The class visited an old castle on Friday. A guide told them about the people who lived there long ago. Then they climbed many stairs to the top. The view was beautiful, but Liam was tired. His favorite part was lunch in the garden because he could rest and talk with his friends.
+What did the guide talk about?|People who lived in the castle.|Modern trains.|Next week's weather.|How to cook.|昔住んだ人の話をした。
+Why was Liam tired?|He climbed many stairs.|He ran to school.|He carried a bag for the guide.|He did not sleep.|多くの階段を登ったため。
+What did Liam enjoy most?|Lunch in the garden.|Buying tickets.|Climbing stairs.|Riding a train.|favorite part は昼食。
+# 猫の世話
+Hi Kate,\nCould you look after my cat this weekend? I'll be away from Friday evening until Sunday night. Please give her food twice a day and fresh water every morning. Her food is in the cupboard. Don't let her go outside. I'll leave my key with you on Thursday.\nEmma
+How long will Emma be away?|From Friday evening to Sunday night.|From Thursday to Friday.|For two weeks.|Only Saturday morning.|留守の期間を読む。
+How often should Kate feed the cat?|Twice a day.|Once a day.|Three times a week.|Every two days.|1日2回えさを与える。
+What must Kate not do?|Let the cat go outside.|Give water.|Open the cupboard.|Use the key.|外に出してはいけない。
+# バザー
+HELP OUR SCHOOL SALE\nWe need books, toys, and bags that you no longer use. Please bring clean items to Room 101 on Monday or Tuesday. We cannot accept clothes or broken toys. The sale will be on Saturday. The money will help buy new sports equipment for our school.
+Which item can students donate?|A clean old book.|A broken toy.|A dirty bag.|An old coat.|汚れのない本は可。服や壊れた玩具は不可。
+When can students bring items?|On Monday or Tuesday.|Only Saturday.|On Thursday evening.|On Sunday morning.|持参日と販売日を区別。
+What will the school buy with the money?|Sports equipment.|New uniforms.|Lunch for teachers.|Library desks.|収益は運動用具に使う。
+# 遅れた電車
+Dear Mom,\nMy train stopped for thirty minutes because of strong wind. It is moving again now. I will arrive at North Station at six forty, not six ten. Could you meet me there? I bought a small cake for dinner. Please don't buy dessert.\nYuna
+Why did the train stop?|Because of strong wind.|Because of snow.|Because the driver was late.|Because of an event.|強風が原因。
+When will Yuna arrive?|At 6:40.|At 6:10.|At 6:30.|At 7:10.|修正後の時刻は6時40分。
+Why should Mom not buy dessert?|Yuna bought a cake.|They will eat out.|Yuna dislikes sweets.|The shop is closed.|すでにケーキを買ったため。
+# 好きな場所
+My favorite place is the small library near my house. It is quieter than the library at school. I often go there on Saturday mornings. A friendly librarian helps me find books about animals. Last week, she showed me a book about dolphins, and I read it in one afternoon.
+Why does the writer like the small library?|It is quieter than the school library.|It has a pool.|It opens all night.|It sells food.|学校の図書館より静か。
+When does the writer often visit?|On Saturday mornings.|On Monday evenings.|Every school lunchtime.|On Sunday nights.|土曜の朝に訪れる。
+What was last week's book about?|Dolphins.|Cats.|Horses.|Birds.|イルカの本を読んだ。
+# 夏のキャンプ
+THREE-DAY SUMMER CAMP\nJuly 25–27, River Campground\nLearn to cook outdoors and watch stars at night. Bring a sleeping bag and warm clothes. Tents will be provided. Mobile phones can be used only after dinner. Call the camp office by July 10 to join.
+What will campers learn?|Outdoor cooking.|Horse riding.|Piano playing.|Painting houses.|屋外料理を学ぶ。
+What do campers NOT need to bring?|A tent.|A sleeping bag.|Warm clothes.|Clothes to wear.|テントは用意される。
+When may campers use phones?|After dinner.|During every activity.|Only before breakfast.|At any time.|使用できるのは夕食後のみ。
+# 姉からの伝言
+Jun,\nI borrowed your red backpack for the school trip. I left my blue one beside your desk, so please use it today. Your train pass is in its front pocket. I put your notebooks inside, too. I'll bring your backpack home this evening. Thanks!\nYour sister
+Which backpack did Jun's sister borrow?|The red one.|The blue one.|The black one.|The green one.|借りたのは赤いほう。
+Where is Jun's train pass?|In the blue backpack's front pocket.|On the desk.|In a red purse.|At the station.|its は青いかばんを指す。
+When will his sister return the backpack?|This evening.|Tomorrow morning.|Next week.|At lunchtime.|返却は今日の夕方。
+# 店の手伝い
+During summer vacation, Finn helped at his aunt's ice cream shop. He cleaned tables and carried empty boxes. He could not serve customers at first. After a week, his aunt taught him how to do it. Finn enjoyed talking to customers, but standing all afternoon made him tired.
+Whose shop did Finn help at?|His aunt's.|His mother's.|His neighbor's.|His teacher's.|おばの店で手伝った。
+What did Finn learn after a week?|How to serve customers.|How to build tables.|How to make boxes.|How to paint the shop.|接客の仕方を習った。
+What made Finn tired?|Standing all afternoon.|Talking on the phone.|Walking to the station.|Cleaning his bedroom.|午後中立ち続けて疲れた。
+# 写真コンテスト
+PHOTO CONTEST: MY TOWN\nTake a photo of your favorite place in our town. Send only one photo by email by October 15. Write your name, age, and a short message about the place. The best ten photos will be shown at the town library in November.
+What should the photo show?|A favorite place in the town.|An animal at home.|A foreign meal.|A textbook.|町の好きな場所がテーマ。
+How many photos can each person send?|One.|Two.|Five.|Ten.|送れるのは1枚のみ。
+Where will the best photos be shown?|At the town library.|At the station.|At a restaurant.|At the gym.|町の図書館で展示。
+# 初めてのスケート
+Maya tried skating for the first time last winter. She fell down many times and wanted to stop. Her cousin held her hand and taught her to move slowly. By the end of the day, Maya could skate a short distance alone. Now she wants to practice again next winter.
+Why did Maya want to stop?|She fell down many times.|She lost her coat.|The ice was gone.|Her cousin left.|何度も転んだため。
+How did her cousin help?|Held her hand and taught her.|Bought a ticket.|Called a doctor.|Carried her home.|手を持って動き方を教えた。
+What could Maya do by the end of the day?|Skate a short distance alone.|Teach a class.|Jump very high.|Win a race.|短い距離を一人で滑れた。
+# 朝の放送
+Good morning, students. Today's soccer practice will be in the gym because the field is too wet. The practice will start at three thirty, thirty minutes earlier than usual. Bring your indoor shoes. The baseball club will use the gym after us, so we must finish at four thirty.
+Why will practice be in the gym?|The field is too wet.|The gym is new.|The coach lost a ball.|It is too hot.|グラウンドがぬれているため。
+When does practice usually start?|At four.|At three.|At three thirty.|At four thirty.|今日3時半は通常より30分早い。
+Why must practice finish at four thirty?|The baseball club will use the gym.|The bus leaves.|The coach has dinner.|Students have an exam.|後で野球部が使うため。
+# 交換留学生
+Hi Dad,\nMy host family eats dinner at seven. Yesterday, we made sushi together. They had never made it before, so I showed them how. Their daughter liked putting vegetables inside the rice. Next Sunday, they will teach me to make apple pie. I'm looking forward to it.\nRiku
+What did Riku teach his host family?|How to make sushi.|How to speak French.|How to grow rice.|How to bake bread.|すしの作り方を教えた。
+Who enjoyed putting vegetables inside the rice?|The family's daughter.|Riku's father.|The neighbor.|Riku's teacher.|Their daughter が主語。
+What will Riku learn next Sunday?|How to make apple pie.|How to catch fish.|How to make sushi.|How to grow apples.|次はアップルパイの作り方を習う。

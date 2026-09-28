@@ -1,0 +1,234 @@
+# 放課後の待ち合わせ
+A: Let's meet at the library at four.\nB: I have a piano lesson until four thirty. Can we meet at five?\nA: Sure. Let's meet outside the library. I'll bring the science book we need.\nB: Great. I'll bring my notebook.
+What time will they meet?|At five.|At four.|At four thirty.|At six.|4時の提案から5時に変更。
+Where will they meet?|Outside the library.|In the music room.|At the station.|At a cafe.|図書館の外で会う。
+What will the second speaker bring?|A notebook.|A science book.|A piano.|Some food.|2人目はノートを持参。
+# かばん選び
+A: I like this red bag. How much is it?\nB: It's twenty dollars. The blue one is fifteen.\nA: The blue one is smaller, but I only need it for my books. I'll take the blue one.\nB: All right. Here you are.
+Which bag will the customer buy?|The blue one.|The red one.|The green one.|The black one.|最後の選択は青。
+How much will the customer pay?|Fifteen dollars.|Twenty dollars.|Five dollars.|Thirty-five dollars.|青いかばんは15ドル。
+What will the customer put in the bag?|Books.|Shoes.|Vegetables.|Sports clothes.|本を入れるため。
+# 雨の日の移動
+A: Are we going to the museum by bike?\nB: No, look at the rain. Let's take the bus.\nA: OK. Where is the bus stop?\nB: In front of the bank. The bus leaves at ten twenty, so we have ten minutes.
+How will they go to the museum?|By bus.|By bike.|By train.|On foot.|雨なのでバスに変更。
+Where is the bus stop?|In front of the bank.|Behind the museum.|Next to the school.|At the airport.|銀行の前にバス停がある。
+What time is it now?|Ten ten.|Ten twenty.|Ten thirty.|Ten forty.|10時20分発の10分前。
+# 朝食
+A: Would you like eggs for breakfast?\nB: No, thank you. I'm not very hungry. Just toast, please.\nA: How about something to drink? We have milk and apple juice.\nB: Apple juice, please. I drank milk last night.
+What will the second speaker eat?|Toast.|Eggs.|Rice.|Soup.|食べたいのはトースト。
+What will the second speaker drink?|Apple juice.|Milk.|Tea.|Water.|牛乳は昨夜。今朝はリンゴジュース。
+Why doesn't the second speaker want eggs?|The speaker is not very hungry.|There are no eggs.|The eggs are cold.|The speaker is late.|あまり空腹でないため。
+# 運動会
+Attention, everyone. The running races will begin at nine thirty, not nine. Please wait near the gym. The field is still wet, and the teachers are checking it. You can leave your bags in your classroom. Don't forget to bring water to the field.
+When will the races begin?|At nine thirty.|At nine.|At ten.|At eight thirty.|修正後の9時30分が開始。
+Why are the races starting later?|The field is wet.|Students are absent.|Buses are late.|There are no teachers.|グラウンドがぬれている。
+Where can students leave their bags?|In their classroom.|On the field.|At the station.|Outside the gym.|荷物は教室に置ける。
+# 昨日の出来事
+A: Did you have fun at the park yesterday?\nB: We didn't go. My little brother had a fever.\nA: Oh, I'm sorry. What did you do?\nB: I stayed home and read a comic book. My brother is better today, so we'll go to the park tomorrow.
+Why didn't they go to the park?|The little brother was sick.|It was raining.|The park was closed.|They lost tickets.|弟に熱があった。
+What did the second speaker do yesterday?|Read a comic book.|Played soccer.|Bought medicine.|Went swimming.|家で漫画を読んだ。
+When will they go to the park?|Tomorrow.|Today.|Next week.|Yesterday.|予定は明日に変更。
+# 電話の伝言
+A: Hello. May I speak to Mr. Brown?\nB: Sorry, he's at lunch. He'll be back at one.\nA: Could you tell him that our meeting is now in Room Three?\nB: Certainly. Who is calling?\nA: This is Ms. Green from the school office.
+Where is Mr. Brown now?|At lunch.|In Room Three.|At home.|At the station.|昼食中で不在。
+When will he return?|At one.|At noon.|At two.|At three.|1時に戻る。
+What message should he receive?|The meeting is in Room Three.|The meeting is canceled.|Lunch is ready.|Ms. Green is sick.|会議室が3番に変わったと伝える。
+# お土産
+A: I need a present for my sister. She likes animals.\nB: How about this T-shirt with a cat on it?\nA: It's nice, but she already has one. I'll buy this rabbit key ring instead.\nB: Good choice. It's only six dollars.
+Who is the present for?|The first speaker's sister.|The first speaker's mother.|The second speaker's brother.|A teacher.|妹または姉への贈り物。
+What will the first speaker buy?|A rabbit key ring.|A cat T-shirt.|A dog picture.|A bird book.|ウサギのキーホルダーを選んだ。
+Why not buy the T-shirt?|The sister already has one.|It is too expensive.|It is too small.|She dislikes cats.|すでに持っているため。
+# 道案内
+A: Excuse me. How can I get to South School?\nB: Go straight for two blocks, then turn left at the flower shop. The school is next to the hospital.\nA: Is it a long walk?\nB: No, about ten minutes from here.
+Where should the first speaker turn left?|At the flower shop.|At the hospital.|At the school gate.|At the bank.|花屋で左折。
+What is next to the school?|A hospital.|A station.|A library.|A supermarket.|学校の隣は病院。
+How long is the walk?|About ten minutes.|About two minutes.|About twenty minutes.|About an hour.|徒歩で約10分。
+# 新しいクラブ
+A: Are you joining the tennis club this year?\nB: No, I'm joining the cooking club. I want to make dinner for my family.\nA: When do you practice?\nB: Every Wednesday after school. The first lesson is about making vegetable soup.
+Which club will the second speaker join?|The cooking club.|The tennis club.|The music club.|The art club.|テニスではなく料理クラブ。
+Why does the second speaker want to join?|To cook for the family.|To win a game.|To meet a singer.|To grow vegetables.|家族に夕食を作りたいから。
+What will the first lesson be about?|Vegetable soup.|Bread.|Fish and rice.|Apple pie.|初回は野菜スープ。
+# 動物園
+A: Let's see the lions first.\nB: Wait, the penguins are getting their food in ten minutes. I want to see that.\nA: OK. Then we can see the lions after lunch.\nB: Good. Let's eat at the cafe beside the elephant area.
+Which animals will they see first?|Penguins.|Lions.|Elephants.|Monkeys.|ペンギンのえさの時間を優先。
+When will they see the lions?|After lunch.|Before the penguins.|Tomorrow morning.|Next week.|ライオンは昼食後。
+Where will they eat?|At a cafe beside the elephant area.|At the entrance.|At home.|Beside the station.|ゾウの区域の隣のカフェ。
+# 宿題忘れ
+A: You look worried, Tom.\nB: I finished my English homework, but I left it on my desk at home.\nA: Can your dad bring it?\nB: He's at work. I'll tell my teacher and bring it tomorrow.\nA: That sounds like a good plan.
+What is Tom's problem?|He left his homework at home.|He cannot understand English.|He lost his desk.|He is late for work.|終えた宿題を家に忘れた。
+Where is Tom's father?|At work.|At school.|At home.|In the library.|父は仕事中。
+What will Tom do first?|Tell his teacher.|Go home by bus.|Call his mother.|Copy a friend's homework.|先生に伝えて明日持参する。
+# 映画の感想
+A: How was the movie last night?\nB: The story was exciting, but the music was too loud.\nA: Did your brother like it?\nB: Yes, especially the dog in the story. He wants to see it again, but I'd rather read the book next.
+What did the second speaker dislike?|The loud music.|The story.|The dog.|The seats.|音楽がうるさすぎた。
+What did the brother especially like?|The dog.|The music.|The train.|The ending song.|兄弟は犬を特に気に入った。
+What does the second speaker want to do next?|Read the book.|See the movie again.|Buy a dog.|Listen to the music.|本人は次に本を読みたい。
+# 旅行の荷物
+A: Have you packed your bag?\nB: Yes. I've got my clothes and my camera.\nA: Don't forget your hat. It will be sunny at the beach.\nB: Oh, I left it upstairs. I'll get it now.\nA: Hurry. We're leaving in fifteen minutes.
+Where is the family going?|To the beach.|To a snowy mountain.|To a museum.|To school.|行き先は海辺。
+What does the second speaker need to get?|A hat.|A camera.|Clothes.|A ticket.|取りに行くのは帽子。
+When will the family leave?|In fifteen minutes.|In five minutes.|In fifty minutes.|Tomorrow.|15分後に出発。
+# 図書の返却
+A: I'd like to borrow these three books.\nB: Certainly. You can keep the two storybooks for two weeks, but this magazine must come back in one week.\nA: Can I return them all next Monday?\nB: Yes, that's fine. Please show me your library card.
+How many items does the first speaker want to borrow?|Three.|One.|Two.|Four.|合計3冊を借りる。
+Which item must be returned sooner?|The magazine.|The storybooks.|The library card.|The dictionary.|雑誌は1週間で返す。
+What must the first speaker show?|A library card.|A train pass.|A notebook.|A passport.|図書館のカードを見せる。
+# 美術の準備
+A: What do we need for art tomorrow?\nB: Colored paper and scissors. The teacher will give us glue.\nA: I have scissors, but no colored paper.\nB: I have extra paper. You can use mine.\nA: Are we making cards?\nB: No, paper flowers.
+What will the teacher provide?|Glue.|Scissors.|Colored paper.|Cards.|先生はのりを配る。
+What will the second speaker share?|Colored paper.|Scissors.|A notebook.|Paint.|余分な色紙を分ける。
+What will they make?|Paper flowers.|Cards.|Paper planes.|Boxes.|カードでなく紙の花を作る。
+# 待ち合わせ変更
+Hello, this is Amy. Our restaurant is full tonight, so let's eat at the small cafe near the bridge instead. I'll meet you there at six thirty. Please don't wait at the station. I already called Ben, but could you tell Jane? See you soon.
+Where will they eat?|At a cafe near the bridge.|At the station restaurant.|At Amy's house.|At school.|橋の近くのカフェに変更。
+What time will Amy meet the others?|Six thirty.|Six.|Seven.|Seven thirty.|6時半の待ち合わせ。
+Who still needs to hear about the change?|Jane.|Ben.|Amy.|The restaurant owner.|Benには連絡済み。Janeに伝える。
+# おつかい
+A: Can you go to the store for me? We need eggs and bread.\nB: Sure. Do we need milk, too?\nA: No, there's enough in the fridge. Here's ten dollars.\nB: Can I buy an apple with the money left over?\nA: Yes, you can.
+What does the family need?|Eggs and bread.|Milk and apples.|Rice and eggs.|Bread and juice.|必要なのは卵とパン。
+Why don't they need milk?|There is enough in the fridge.|They dislike it.|The store has none.|It is expensive.|冷蔵庫に十分あるから。
+What does the second speaker want with the remaining money?|An apple.|A cake.|A toy.|A newspaper.|残金でリンゴを買いたい。
+# バスケの練習
+A: You played basketball really well today.\nB: Thanks. I practice with my older sister every morning before school.\nA: How long do you practice?\nB: Just twenty minutes. On Sundays, we practice for an hour at the sports center.
+Who does the second speaker practice with?|An older sister.|A younger brother.|A teacher.|A neighbor.|姉と練習する。
+How long is the morning practice?|Twenty minutes.|Ten minutes.|Thirty minutes.|An hour.|普段の朝は20分。
+Where do they practice on Sundays?|At the sports center.|At the station.|In the library.|In a kitchen.|日曜日はスポーツセンター。
+# 誕生日の相談
+A: It's Mom's birthday next Tuesday. What should we do?\nB: Let's make a cake. I can buy the eggs on Monday.\nA: Good. I'll buy the fruit. Should we buy flowers, too?\nB: No, let's draw a birthday card instead. She likes our pictures.
+When is their mother's birthday?|Next Tuesday.|Next Monday.|This Sunday.|Next Friday.|誕生日は火曜、買物は月曜。
+What will the first speaker buy?|Fruit.|Eggs.|Flowers.|A card.|1人目は果物を買う。
+What will they make instead of buying flowers?|A birthday card.|A fruit basket.|A photo album.|A new bag.|花の代わりにカードを描く。
+# 町のイベント
+This Sunday, there will be a free concert in River Park. The music begins at two, but come early if you want a seat. Bring a jacket because it may be cool. If it rains, the concert will be held in the town hall. Check our website on Sunday morning.
+How much does the concert cost?|Nothing.|Two dollars.|Five dollars.|Ten dollars.|free なので無料。
+What should visitors bring?|A jacket.|An instrument.|A chair for everyone.|A ticket from school.|涼しいかもしれないので上着。
+Where will the concert be if it rains?|In the town hall.|In the park cafe.|At a school.|At the station.|雨天時は town hall。
+# 転校生
+A: Hi. Are you new here?\nB: Yes. My name is Daniel. I moved here from Canada last week.\nA: Welcome! I'm Haru. Do you like soccer?\nB: I do, but I like baseball even more.\nA: Great. Our baseball team needs another player.
+Where did Daniel move from?|Canada.|Australia.|Japan.|France.|カナダから来た。
+When did he move?|Last week.|Yesterday.|Last month.|Last year.|先週引っ越した。
+Which sport does Daniel like better?|Baseball.|Soccer.|Tennis.|Basketball.|野球のほうがさらに好き。
+# なくした時計
+A: I can't find my watch. I had it at lunch.\nB: Did you take it off for swimming?\nA: Yes! I put it in my jacket pocket before going to the pool.\nB: Where's your jacket?\nA: In my classroom. I'll check it now.
+What is the first speaker looking for?|A watch.|A jacket.|A swimming cap.|A lunch box.|探しているのは時計。
+Why did the first speaker take it off?|To go swimming.|To eat lunch.|To clean the classroom.|To play the piano.|泳ぐため外した。
+Where will the first speaker look now?|In the classroom.|At the restaurant.|At home.|At the station.|上着がある教室を確認する。
+# 店の手伝い
+A: What did you do on Saturday?\nB: I helped my uncle at his flower shop. I carried boxes and watered plants.\nA: Did you enjoy it?\nB: Yes. He gave me some flowers for my mother. I'd like to help again next month.
+Where did the second speaker help?|At a flower shop.|At a restaurant.|At a library.|At a farm.|おじの花屋で手伝った。
+What work did the second speaker do?|Carried boxes and watered plants.|Cooked meals.|Sold tickets.|Painted walls.|箱運びと水やり。
+What did the uncle give the second speaker?|Flowers.|Money.|A book.|A bicycle.|母に渡す花をもらった。
+# チケット予約
+A: I'd like tickets for the museum tour on Saturday.\nB: The morning tour is full, but we have places at two and at four.\nA: Two, please. Two adults and one child.\nB: That's twenty-five dollars altogether. Please arrive ten minutes early.
+Which tour will the customer join?|The two o'clock tour.|The morning tour.|The four o'clock tour.|The evening tour.|2時の回を選んだ。
+How many tickets are needed?|Three.|One.|Two.|Four.|大人2人と子ども1人。
+When should the group arrive?|At one fifty.|At two.|At two ten.|At four.|2時の10分前。
+# ピクニック
+A: I'll bring sandwiches to the picnic. Can you bring drinks?\nB: Sure. Is orange juice OK?\nA: Yes. Ken will bring fruit.\nB: Do we need plates?\nA: No, I've packed them already. Please bring some cups, though.
+What will the first speaker bring to eat?|Sandwiches.|Fruit.|Cake.|Salad.|1人目はサンドイッチ。
+Who will bring fruit?|Ken.|The first speaker.|The second speaker.|No one.|果物は Ken が持参。
+What does the second speaker need besides drinks?|Cups.|Plates.|Forks.|Chairs.|皿は準備済みでコップを依頼。
+# 読書の会話
+A: Are you reading a book about space?\nB: No, it's about the sea. I borrowed it from my cousin.\nA: Is it interesting?\nB: Yes, especially the part about whales. I want to borrow a book about birds next.\nA: Our library has a good one.
+What is the book about?|The sea.|Space.|Birds.|Mountains.|宇宙ではなく海の本。
+Who lent the book to the second speaker?|A cousin.|A teacher.|A librarian.|A brother.|いとこから借りた。
+What does the second speaker want to read about next?|Birds.|Whales.|Space.|Flowers.|次は鳥の本を読みたい。
+# 駅の放送
+The next train to West Town will arrive at platform four at three fifteen. It is ten minutes late today. Please stand behind the yellow line. The train will stop at Green Station before reaching West Town. Passengers for Green Station should also use this train.
+Which platform should passengers use?|Platform four.|Platform three.|Platform ten.|Platform fifteen.|4番ホームに到着。
+When was the train originally expected?|At three oh five.|At three fifteen.|At three twenty-five.|At four fifteen.|3時15分の10分前が予定時刻。
+Where will the train stop before West Town?|Green Station.|East Airport.|North School.|River Park.|途中停車は Green Station。
+# 夕食作り
+A: Could you help me make dinner?\nB: Sure. Should I wash the potatoes?\nA: I've done that. Please cut the carrots. Be careful with the knife.\nB: OK. What are we making?\nA: Vegetable curry. Your dad will be home at seven, so let's finish by then.
+What should the second speaker do?|Cut the carrots.|Wash the potatoes.|Buy rice.|Set the table.|頼まれたのはニンジンを切ること。
+What are they making?|Vegetable curry.|Chicken soup.|Potato salad.|Rice balls.|野菜カレーを作る。
+By what time do they want to finish?|Seven.|Six.|Eight.|Nine.|父の帰宅する7時まで。
+# 子犬
+A: Is that your new dog?\nB: Yes. His name is Max. We got him two weeks ago.\nA: He's small. How old is he?\nB: Four months. He likes sleeping under my desk, but now he's in the garden with my sister.
+When did the family get the dog?|Two weeks ago.|Four months ago.|Yesterday.|Last year.|飼い始めたのは2週間前。
+How old is the dog?|Four months.|Two weeks.|Four years.|Two years.|生後4か月。
+Where is the dog now?|In the garden.|Under a desk.|At a pet shop.|In the kitchen.|今は庭にいる。
+# 欠席した友達
+A: You weren't at school yesterday. Are you OK?\nB: Yes. I had a cold, but I'm better now. Did we have any homework?\nA: Yes, read pages ten to twelve in the history book. There is no math homework.\nB: Thanks. I'll do it tonight.
+Why was the second speaker absent?|Because of a cold.|Because of a trip.|Because of a broken bike.|Because of a lesson.|風邪で休んだ。
+Which subject has homework?|History.|Math.|Art.|Music.|歴史には宿題がある。
+How many pages must the second speaker read?|Three.|Two.|Ten.|Twelve.|10、11、12ページの3ページ。
+# 移動の相談
+A: Do you want to ride our bikes to the sports center?\nB: My bike is broken. Let's walk. It only takes twenty minutes.\nA: But our lesson starts in fifteen minutes.\nB: Then let's ask my dad to drive us. He's at home today.
+Why can't the second speaker ride a bike?|It is broken.|It was stolen.|It is too small.|It is at school.|自転車が壊れている。
+Why don't they want to walk?|They would be late.|It is raining.|They have no shoes.|The road is closed.|徒歩20分で授業は15分後。
+What will they ask the father to do?|Drive them.|Repair the bike immediately.|Cancel the lesson.|Walk with them.|車で送ってもらう。
+# 本屋の案内
+Thank you for calling Green Bookshop. We are open from ten in the morning to seven in the evening, Tuesday through Sunday. We are closed on Mondays. This Saturday, a children's writer will visit at two. Please call again during opening hours to reserve a seat.
+On which day is the shop closed?|Monday.|Tuesday.|Saturday.|Sunday.|月曜は定休日。
+What time does the shop close?|Seven in the evening.|Ten in the morning.|Two in the afternoon.|Six in the evening.|閉店は午後7時。
+Why should listeners call again?|To reserve a seat for the writer's visit.|To order dinner.|To buy a train ticket.|To borrow a camera.|作家イベントの席を予約するため。
+# 夏休み
+A: Are you going abroad this summer?\nB: Not this year. I'm staying with my grandparents in the countryside for a week.\nA: What will you do there?\nB: Help them grow vegetables. My grandfather will also teach me how to fish.\nA: That sounds fun.
+Where will the second speaker stay?|With grandparents in the countryside.|At a hotel abroad.|At a friend's apartment.|At school.|田舎の祖父母の家に泊まる。
+How long will the stay be?|A week.|A day.|Two weeks.|A month.|1週間滞在。
+What will the grandfather teach?|How to fish.|How to cook.|How to swim.|How to drive.|釣りを教えてくれる。
+# 服選び
+A: Should I wear my blue shirt to the party?\nB: I think your white one looks better with those black trousers.\nA: You're right. I'll wear the white one. But it's cold outside.\nB: Take your jacket, too. You can leave it by the door at the party.
+Which shirt will the first speaker wear?|The white one.|The blue one.|The black one.|The red one.|白いシャツに決めた。
+What color are the trousers?|Black.|Blue.|White.|Brown.|ズボンは黒。
+Why should the first speaker take a jacket?|It is cold outside.|It may rain inside.|The party is a sports event.|The shirt is wet.|外が寒いため。
+# 練習場所
+A: We can't practice in the music room today. Another class is using it.\nB: Can we use the gym?\nA: No, there's a basketball game. Ms. Lee said we can use Room Five after four.\nB: Great. I'll tell the other members.
+Why can't they use the music room?|Another class is using it.|It is being painted.|There is no piano.|It is too cold.|他のクラスが使っている。
+Where will they practice?|Room Five.|The gym.|The music room.|The library.|5番教室を使う。
+What will the second speaker do?|Tell the other members.|Buy a basketball.|Call the principal.|Clean Room Five.|他の部員に伝える。
+# 買い物の計算
+A: These notebooks are two dollars each. I need three.\nB: I need one, too. Let's buy them together.\nA: OK. I have ten dollars.\nB: I'll give you two dollars after we pay. Let's ask the clerk for a bag.
+How many notebooks will they buy in total?|Four.|One.|Three.|Five.|3冊と1冊で4冊。
+How much do the notebooks cost altogether?|Eight dollars.|Six dollars.|Ten dollars.|Two dollars.|2ドル×4冊で8ドル。
+What will they ask the clerk for?|A bag.|A pen.|A discount card.|Another color.|店員に袋を頼む。
+# 美術館のルール
+Welcome to our art museum. You may take photos in the first-floor rooms, but not upstairs. Please speak quietly. You can leave large bags at the front desk. There is a cafe on the second floor. The museum closes at five, and the cafe closes thirty minutes earlier.
+Where may visitors take photos?|On the first floor.|Only upstairs.|In every room.|Nowhere.|1階では写真撮影ができる。
+Where can visitors leave large bags?|At the front desk.|In the cafe.|Outside.|In the picture rooms.|大きい荷物はフロントへ。
+What time does the cafe close?|Four thirty.|Five.|Five thirty.|Four.|5時より30分早く閉まる。
+# 得意なこと
+A: Your brother is good at drawing, isn't he?\nB: Yes. He wants to be an artist.\nA: Do you like drawing, too?\nB: I do, but I'm better at writing stories. I'm entering a story contest next month.\nA: Good luck!
+What does the brother want to be?|An artist.|A writer.|A doctor.|A teacher.|兄弟の夢は芸術家。
+What is the second speaker better at?|Writing stories.|Drawing pictures.|Playing tennis.|Singing.|本人は物語を書くほうが得意。
+When is the second speaker entering the contest?|Next month.|Tomorrow.|Next year.|Last week.|来月のコンテスト。
+# 山への旅行
+A: How was your trip to the mountains?\nB: It rained on the first day, so we played cards in the hotel. On the second day, it was sunny and we went hiking.\nA: Did you see any animals?\nB: Yes, a few deer near a river.
+What did they do on the first day?|Played cards in the hotel.|Went hiking.|Swam in a river.|Fed deer.|初日は雨で室内でカード遊び。
+What was the weather on the second day?|Sunny.|Rainy.|Snowy.|Windy and cloudy.|2日目は晴れ。
+What animals did they see?|Deer.|Bears.|Monkeys.|Rabbits.|deer は鹿。
+# お弁当
+A: Your lunch looks good. Did your mother make it?\nB: No, I made it myself this morning. It's rice with chicken and carrots.\nA: Can you teach me?\nB: Sure. Come to my house on Saturday. We can cook together before lunch.
+Who made the second speaker's lunch?|The second speaker.|The speaker's mother.|The speaker's father.|A teacher.|myself なので本人。
+Which vegetable is in the lunch?|Carrots.|Potatoes.|Tomatoes.|Onions.|野菜はニンジン。
+What will they do on Saturday?|Cook together.|Buy lunch at school.|Visit a farm.|Go fishing.|家で一緒に料理する。
+# 理科の発表
+A: What is your science talk about?\nB: Bees. I wanted to talk about butterflies, but Sara chose that topic first.\nA: When is your talk?\nB: Next Friday. I'm going to show some pictures I took in our garden.\nA: I look forward to it.
+What is the second speaker's topic?|Bees.|Butterflies.|Birds.|Trees.|発表するのはハチ。
+Why didn't the second speaker choose butterflies?|Sara chose that topic first.|There were no pictures.|The teacher disliked it.|No butterflies were seen.|Sara が先に選んだから。
+Where were the pictures taken?|In the garden.|At school.|In a forest.|At a museum.|庭で撮った写真。
+# 父への贈り物
+A: Let's buy Dad a tie.\nB: He has lots of ties. What about a book about cooking? He likes cooking on Sundays.\nA: That's better. The bookshop closes at six.\nB: It's five now. Let's go after we finish washing the dishes.
+What will they buy for Dad?|A cooking book.|A tie.|A new plate.|A camera.|ネクタイでなく料理の本にする。
+Why do they choose that present?|Dad likes cooking.|Dad works in a bookshop.|Dad has no ties.|Dad takes photos.|父は料理好きだから。
+What will they do before shopping?|Wash the dishes.|Cook dinner.|Read a book.|Watch TV.|皿洗いを終えてから行く。
+# 図書委員
+A: Can you help in the library after school today?\nB: I can, but only until four thirty. I have a dentist appointment at five.\nA: That's fine. Please put these returned books on the shelves.\nB: Should I clean the desks, too?\nA: No, I've already done that.
+Until what time can the second speaker help?|Four thirty.|Five.|Four.|Five thirty.|4時半までなら手伝える。
+Why must the second speaker leave?|To visit the dentist.|To take a music lesson.|To meet a cousin.|To buy a book.|5時に歯科の予約がある。
+What will the second speaker do?|Put books on the shelves.|Clean the desks.|Buy new books.|Write library cards.|本を棚へ戻す。
+# 電車の忘れ物
+A: Excuse me. I left my bag on the train.\nB: What does it look like?\nA: It's brown, with a small red star. My sports shoes are inside.\nB: Which train were you on?\nA: The train that arrived here at nine forty.\nB: All right. I'll contact the station office.
+What color is the bag?|Brown.|Red.|Black.|White.|かばんは茶色、模様が赤。
+What is inside the bag?|Sports shoes.|School books.|A camera.|A lunch box.|運動靴が入っている。
+When did the train arrive?|At nine forty.|At nine fourteen.|At ten forty.|At nine.|到着は9時40分。
+# 清掃活動
+Join our town clean-up this Saturday. Meet in front of the town hall at eight thirty. We will clean the river area for two hours. Gloves and bags will be provided, but bring your own water. Children under twelve should come with an adult. Thank you for helping our town.
+Where will participants meet?|In front of the town hall.|At the river bridge.|At the school gate.|Inside the library.|集合は town hall 前。
+What should participants bring themselves?|Water.|Gloves.|Bags.|Cleaning machines.|水は各自持参。
+Who must come with an adult?|Children under twelve.|All students.|People over sixty.|Only teachers.|12歳未満は大人と参加。
+# 忘れた傘
+A: It's raining. Where's your umbrella?\nB: I left it at the cafe yesterday. I'll run there.\nA: Don't do that. You can use mine. I have a raincoat.\nB: Thank you. I'll bring your umbrella back after I get my own.\nA: Take your time.
+Where is the second speaker's umbrella?|At the cafe.|At school.|On the train.|At home.|昨日カフェに忘れた。
+Why can the first speaker lend an umbrella?|The first speaker has a raincoat.|The rain stopped.|The cafe is closed.|The first speaker is driving.|レインコートがあるから貸せる。

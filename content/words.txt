@@ -1,0 +1,27 @@
+親族|parent=親;son=息子;brother=兄・弟;sister=姉・妹;uncle=おじ;aunt=おば;cousin=いとこ;grandfather=祖父;grandmother=祖母;neighbor=近所の人
+職業|farmer=農家の人;nurse=看護師;dentist=歯科医;pilot=パイロット;driver=運転手;engineer=技術者;scientist=科学者;artist=芸術家;writer=作家;clerk=店員
+場所|station=駅;museum=博物館;theater=劇場;post office=郵便局;airport=空港;restaurant=レストラン;factory=工場;bank=銀行;church=教会;police station=警察署
+街|village=村;town=町;country=国;capital=首都;island=島;bridge=橋;street=通り;corner=角;entrance=入口;exit=出口
+自然|mountain=山;river=川;lake=湖;forest=森;beach=砂浜;field=野原・畑;sky=空;cloud=雲;star=星;moon=月
+季節・天気|spring=春;summer=夏;autumn=秋;winter=冬;wind=風;rain=雨;snow=雪;sunny=晴れた;cloudy=曇った;rainy=雨の
+動物|horse=馬;sheep=羊;cow=牛;rabbit=ウサギ;monkey=サル;elephant=ゾウ;lion=ライオン;tiger=トラ;whale=クジラ;dolphin=イルカ
+食べ物|vegetable=野菜;fruit=果物;potato=ジャガイモ;onion=タマネギ;carrot=ニンジン;salad=サラダ;soup=スープ;bread=パン;rice=米・ご飯;meat=肉
+衣服|coat=コート;jacket=ジャケット;shirt=シャツ;skirt=スカート;sweater=セーター;glove=手袋;sock=靴下;shoe=靴;hat=帽子;uniform=制服
+持ち物|umbrella=傘;wallet=財布;key=鍵;ticket=切符・チケット;stamp=切手;letter=手紙;newspaper=新聞;magazine=雑誌;dictionary=辞書;calendar=カレンダー
+家|kitchen=台所;bathroom=浴室;bedroom=寝室;living room=居間;garden=庭;wall=壁;floor=床;ceiling=天井;window=窓;roof=屋根
+家具・道具|shelf=棚;mirror=鏡;clock=時計;lamp=ランプ;refrigerator=冷蔵庫;plate=皿;bowl=おわん;spoon=スプーン;fork=フォーク;knife=ナイフ
+学校|subject=教科;history=歴史;science=理科・科学;math=数学;art=美術;homework=宿題;question=質問;answer=答え;lesson=授業;exam=試験
+時間|morning=朝;afternoon=午後;evening=夕方・晩;night=夜;noon=正午;midnight=真夜中の12時;minute=分;hour=時間;week=週;month=月・ひと月
+行事|birthday=誕生日;holiday=休日;vacation=休暇;festival=祭り;concert=コンサート;party=パーティー;picnic=ピクニック;trip=旅行;meeting=会議・集まり;contest=コンテスト
+買物・授受|buy=買う;sell=売る;pay=支払う;spend=費やす;choose=選ぶ;bring=持ってくる;carry=運ぶ;send=送る;receive=受け取る;lend=貸す
+移動・変化|begin=始める;continue=続ける;stop=止める・止まる;leave=出発する・去る;return=戻る;reach=着く・届く;follow=ついて行く;cross=横切る;turn=曲がる;travel=旅行する
+家事・作業|wash=洗う;clean=掃除する;cook=料理する;cut=切る;build=建てる;break=壊す;repair=修理する;open=開ける;close=閉める;collect=集める
+学習・思考|teach=教える;understand=理解する;forget=忘れる;think=考える;know=知っている;believe=信じる;hope=望む;decide=決める;try=試みる;need=必要とする
+対話・交流|hear=聞こえる;listen=耳を傾ける;speak=話す;tell=伝える;ask=尋ねる;call=電話する・呼ぶ;meet=会う;visit=訪れる;show=見せる;help=手伝う
+活動|win=勝つ;lose=失う・負ける;enjoy=楽しむ;ride=乗る;swim=泳ぐ;climb=登る;fall=落ちる;grow=育つ・育てる;feed=えさを与える;catch=捕まえる
+性質|beautiful=美しい;important=重要な;different=異なった;same=同じ;easy=簡単な;difficult=難しい;interesting=面白い;boring=退屈な;popular=人気がある;special=特別な
+状態・程度|cheap=安い;heavy=重い;light=軽い;strong=強い;weak=弱い;wide=幅が広い;narrow=幅が狭い;deep=深い;high=高い;low=低い
+気持ち|thirsty=のどが渇いた;tired=疲れた;sleepy=眠い;angry=怒った;worried=心配している;surprised=驚いた;excited=わくわくした;afraid=恐れている;lonely=寂しい;proud=誇りに思う
+副詞|always=いつも;often=しばしば;sometimes=ときどき;never=一度も〜ない;already=すでに;still=まだ;soon=まもなく;together=一緒に;again=再び;perhaps=たぶん
+熟語1|look at=〜を見る;look like=〜のように見える;look after=〜の面倒を見る;get on=〜に乗る;get off=〜から降りる;put on=〜を身につける;take off=〜を脱ぐ;turn on=〜の電源を入れる;turn off=〜の電源を切る;find out=〜を調べて知る
+熟語2|a few=少数の;a little=少量の;at first=最初は;at last=ついに;for example=例えば;of course=もちろん;in front of=〜の前に;far from=〜から遠い;be late for=〜に遅れる;have a good time=楽しい時間を過ごす

@@ -1,0 +1,1246 @@
+[
+  {
+    "id": 1,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「library」の意味は？",
+    "options": [
+      "図書館",
+      "病院",
+      "駅",
+      "工場"
+    ],
+    "explain": "library は「図書館」という意味です。",
+    "word": "library"
+  },
+  {
+    "id": 2,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「borrow」の意味は？",
+    "options": [
+      "借りる",
+      "貸す",
+      "買う",
+      "売る"
+    ],
+    "explain": "borrow は「借りる」という意味です。",
+    "word": "borrow"
+  },
+  {
+    "id": 3,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「arrive」の意味は？",
+    "options": [
+      "到着する",
+      "出発する",
+      "忘れる",
+      "選ぶ"
+    ],
+    "explain": "arrive は「到着する」という意味です。",
+    "word": "arrive"
+  },
+  {
+    "id": 4,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「invite」の意味は？",
+    "options": [
+      "招待する",
+      "訪れる",
+      "運ぶ",
+      "洗う"
+    ],
+    "explain": "invite は「招待する」という意味です。",
+    "word": "invite"
+  },
+  {
+    "id": 5,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「famous」の意味は？",
+    "options": [
+      "有名な",
+      "空腹の",
+      "危険な",
+      "静かな"
+    ],
+    "explain": "famous は「有名な」という意味です。",
+    "word": "famous"
+  },
+  {
+    "id": 6,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「expensive」の意味は？",
+    "options": [
+      "値段が高い",
+      "安い",
+      "忙しい",
+      "難しい"
+    ],
+    "explain": "expensive は「値段が高い」という意味です。",
+    "word": "expensive"
+  },
+  {
+    "id": 7,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「weather」の意味は？",
+    "options": [
+      "天気",
+      "季節",
+      "地図",
+      "旅行"
+    ],
+    "explain": "weather は「天気」という意味です。",
+    "word": "weather"
+  },
+  {
+    "id": 8,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「practice」の意味は？",
+    "options": [
+      "練習する",
+      "眠る",
+      "集める",
+      "閉める"
+    ],
+    "explain": "practice は「練習する」という意味です。",
+    "word": "practice"
+  },
+  {
+    "id": 9,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「hospital」の意味は？",
+    "options": [
+      "病院",
+      "図書館",
+      "郵便局",
+      "博物館"
+    ],
+    "explain": "hospital は「病院」という意味です。",
+    "word": "hospital"
+  },
+  {
+    "id": 10,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「between」の意味は？",
+    "options": [
+      "〜の間に",
+      "〜の後ろに",
+      "〜の上に",
+      "〜の外に"
+    ],
+    "explain": "between は「〜の間に」という意味です。",
+    "word": "between"
+  },
+  {
+    "id": 11,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「usually」の意味は？",
+    "options": [
+      "たいてい",
+      "決して〜ない",
+      "昨日",
+      "すぐに"
+    ],
+    "explain": "usually は「たいてい」という意味です。",
+    "word": "usually"
+  },
+  {
+    "id": 12,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「tomorrow」の意味は？",
+    "options": [
+      "明日",
+      "昨日",
+      "今夜",
+      "先週"
+    ],
+    "explain": "tomorrow は「明日」という意味です。",
+    "word": "tomorrow"
+  },
+  {
+    "id": 13,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「careful」の意味は？",
+    "options": [
+      "注意深い",
+      "美しい",
+      "有名な",
+      "疲れた"
+    ],
+    "explain": "careful は「注意深い」という意味です。",
+    "word": "careful"
+  },
+  {
+    "id": 14,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「finish」の意味は？",
+    "options": [
+      "終える",
+      "始める",
+      "忘れる",
+      "待つ"
+    ],
+    "explain": "finish は「終える」という意味です。",
+    "word": "finish"
+  },
+  {
+    "id": 15,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「learn」の意味は？",
+    "options": [
+      "学ぶ",
+      "教える",
+      "話す",
+      "走る"
+    ],
+    "explain": "learn は「学ぶ」という意味です。",
+    "word": "learn"
+  },
+  {
+    "id": 16,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「daughter」の意味は？",
+    "options": [
+      "娘",
+      "息子",
+      "姉妹",
+      "母"
+    ],
+    "explain": "daughter は「娘」という意味です。",
+    "word": "daughter"
+  },
+  {
+    "id": 17,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「early」の意味は？",
+    "options": [
+      "早く",
+      "遅く",
+      "ゆっくり",
+      "強く"
+    ],
+    "explain": "early は「早く」という意味です。",
+    "word": "early"
+  },
+  {
+    "id": 18,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「remember」の意味は？",
+    "options": [
+      "覚えている",
+      "忘れる",
+      "借りる",
+      "運ぶ"
+    ],
+    "explain": "remember は「覚えている」という意味です。",
+    "word": "remember"
+  },
+  {
+    "id": 19,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「hungry」の意味は？",
+    "options": [
+      "空腹の",
+      "のどが渇いた",
+      "眠い",
+      "怒った"
+    ],
+    "explain": "hungry は「空腹の」という意味です。",
+    "word": "hungry"
+  },
+  {
+    "id": 20,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「enough」の意味は？",
+    "options": [
+      "十分な",
+      "少しの",
+      "ほかの",
+      "すべての"
+    ],
+    "explain": "enough は「十分な」という意味です。",
+    "word": "enough"
+  },
+  {
+    "id": 21,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「take care of」の意味は？",
+    "options": [
+      "世話をする",
+      "探す",
+      "起きる",
+      "到着する"
+    ],
+    "explain": "take care of は「世話をする」という意味です。",
+    "word": "take care of"
+  },
+  {
+    "id": 22,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「look for」の意味は？",
+    "options": [
+      "探す",
+      "見上げる",
+      "世話をする",
+      "帰る"
+    ],
+    "explain": "look for は「探す」という意味です。",
+    "word": "look for"
+  },
+  {
+    "id": 23,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「be interested in」の意味は？",
+    "options": [
+      "〜に興味がある",
+      "〜が得意だ",
+      "〜を恐れる",
+      "〜に遅れる"
+    ],
+    "explain": "be interested in は「〜に興味がある」という意味です。",
+    "word": "be interested in"
+  },
+  {
+    "id": 24,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「a lot of」の意味は？",
+    "options": [
+      "たくさんの",
+      "少しの",
+      "一つの",
+      "何もない"
+    ],
+    "explain": "a lot of は「たくさんの」という意味です。",
+    "word": "a lot of"
+  },
+  {
+    "id": 25,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「get up」の意味は？",
+    "options": [
+      "起きる",
+      "座る",
+      "帰る",
+      "入る"
+    ],
+    "explain": "get up は「起きる」という意味です。",
+    "word": "get up"
+  },
+  {
+    "id": 26,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「on foot」の意味は？",
+    "options": [
+      "歩いて",
+      "バスで",
+      "急いで",
+      "一人で"
+    ],
+    "explain": "on foot は「歩いて」という意味です。",
+    "word": "on foot"
+  },
+  {
+    "id": 27,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「be good at」の意味は？",
+    "options": [
+      "〜が得意だ",
+      "〜が好きでない",
+      "〜が必要だ",
+      "〜に遅れる"
+    ],
+    "explain": "be good at は「〜が得意だ」という意味です。",
+    "word": "be good at"
+  },
+  {
+    "id": 28,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「wait for」の意味は？",
+    "options": [
+      "〜を待つ",
+      "〜を見る",
+      "〜を作る",
+      "〜に聞く"
+    ],
+    "explain": "wait for は「〜を待つ」という意味です。",
+    "word": "wait for"
+  },
+  {
+    "id": 29,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「next to」の意味は？",
+    "options": [
+      "〜の隣に",
+      "〜の間に",
+      "〜の中に",
+      "〜の上に"
+    ],
+    "explain": "next to は「〜の隣に」という意味です。",
+    "word": "next to"
+  },
+  {
+    "id": 30,
+    "cat": "word",
+    "tag": "単語・熟語",
+    "prompt": "「each」の意味は？",
+    "options": [
+      "それぞれの",
+      "両方の",
+      "多くの",
+      "ほかの"
+    ],
+    "explain": "each は「それぞれの」という意味です。",
+    "word": "each"
+  },
+  {
+    "id": 31,
+    "cat": "grammar",
+    "tag": "過去形",
+    "prompt": "I (     ) soccer yesterday.",
+    "options": [
+      "played",
+      "play",
+      "plays",
+      "playing"
+    ],
+    "explain": "yesterday（昨日）があるので過去形 played。「昨日サッカーをしました」。"
+  },
+  {
+    "id": 32,
+    "cat": "grammar",
+    "tag": "過去形",
+    "prompt": "We (     ) to the zoo last Sunday.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "explain": "go の過去形は went。last Sunday は「この前の日曜日」。"
+  },
+  {
+    "id": 33,
+    "cat": "grammar",
+    "tag": "過去形",
+    "prompt": "(     ) you watch TV last night?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "explain": "過去の一般動詞の疑問文は Did + 主語 + 動詞の原形。"
+  },
+  {
+    "id": 34,
+    "cat": "grammar",
+    "tag": "過去形",
+    "prompt": "She did not (     ) breakfast today.",
+    "options": [
+      "eat",
+      "ate",
+      "eats",
+      "eating"
+    ],
+    "explain": "did not の後は動詞の原形 eat。「今日は朝食を食べなかった」。"
+  },
+  {
+    "id": 35,
+    "cat": "grammar",
+    "tag": "過去形",
+    "prompt": "They (     ) busy yesterday.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "explain": "過去の be動詞。主語が they なので were。"
+  },
+  {
+    "id": 36,
+    "cat": "grammar",
+    "tag": "未来",
+    "prompt": "I am going (     ) visit Kyoto.",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "for"
+    ],
+    "explain": "be going to + 動詞の原形で「〜するつもり」。"
+  },
+  {
+    "id": 37,
+    "cat": "grammar",
+    "tag": "未来",
+    "prompt": "It will (     ) sunny tomorrow.",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explain": "will の後は動詞の原形。be sunny で「晴れている」。"
+  },
+  {
+    "id": 38,
+    "cat": "grammar",
+    "tag": "進行形",
+    "prompt": "Ken is (     ) a book now.",
+    "options": [
+      "reading",
+      "read",
+      "reads",
+      "to read"
+    ],
+    "explain": "be動詞 + 動詞の ing形で「〜しているところ」。"
+  },
+  {
+    "id": 39,
+    "cat": "grammar",
+    "tag": "進行形",
+    "prompt": "I was (     ) dinner at seven.",
+    "options": [
+      "cooking",
+      "cook",
+      "cooks",
+      "cooked"
+    ],
+    "explain": "was + ing形で過去のある時点に「〜していた」。"
+  },
+  {
+    "id": 40,
+    "cat": "grammar",
+    "tag": "比較",
+    "prompt": "My bag is (     ) than yours.",
+    "options": [
+      "bigger",
+      "big",
+      "biggest",
+      "the biggest"
+    ],
+    "explain": "than が比較の目印。big の比較級は bigger。"
+  },
+  {
+    "id": 41,
+    "cat": "grammar",
+    "tag": "比較",
+    "prompt": "This is the (     ) building in our town.",
+    "options": [
+      "tallest",
+      "tall",
+      "taller",
+      "more tall"
+    ],
+    "explain": "the + 最上級。「町でいちばん高い建物」。"
+  },
+  {
+    "id": 42,
+    "cat": "grammar",
+    "tag": "比較",
+    "prompt": "This book is more (     ) than that one.",
+    "options": [
+      "interesting",
+      "interested",
+      "interest",
+      "interests"
+    ],
+    "explain": "長い形容詞は more を前に置いて比較する。interesting は「面白い」。"
+  },
+  {
+    "id": 43,
+    "cat": "grammar",
+    "tag": "不定詞",
+    "prompt": "I want (     ) a doctor.",
+    "options": [
+      "to be",
+      "be",
+      "being",
+      "was"
+    ],
+    "explain": "want to + 動詞の原形で「〜したい」。to be a doctor は「医者になること」。"
+  },
+  {
+    "id": 44,
+    "cat": "grammar",
+    "tag": "不定詞",
+    "prompt": "She went to the park (     ) tennis.",
+    "options": [
+      "to play",
+      "play",
+      "played",
+      "plays"
+    ],
+    "explain": "目的を表す to + 動詞の原形。「テニスをするために」。"
+  },
+  {
+    "id": 45,
+    "cat": "grammar",
+    "tag": "動名詞",
+    "prompt": "I enjoy (     ) music.",
+    "options": [
+      "listening to",
+      "listen to",
+      "listened to",
+      "to listen"
+    ],
+    "explain": "enjoy の後は ing形。listen to music で「音楽を聴く」。"
+  },
+  {
+    "id": 46,
+    "cat": "grammar",
+    "tag": "助動詞",
+    "prompt": "You must (     ) your homework.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "doing"
+    ],
+    "explain": "must + 動詞の原形。「〜しなければならない」。"
+  },
+  {
+    "id": 47,
+    "cat": "grammar",
+    "tag": "助動詞",
+    "prompt": "You (     ) eat in this library. It is not allowed.",
+    "options": [
+      "must not",
+      "do not have to",
+      "may",
+      "should"
+    ],
+    "explain": "禁止は must not。「図書館で食べてはいけない」。"
+  },
+  {
+    "id": 48,
+    "cat": "grammar",
+    "tag": "助動詞",
+    "prompt": "You (     ) bring lunch. We will give you sandwiches.",
+    "options": [
+      "do not have to",
+      "must not",
+      "cannot",
+      "must"
+    ],
+    "explain": "do not have to は「〜する必要がない」。禁止とは違う。"
+  },
+  {
+    "id": 49,
+    "cat": "grammar",
+    "tag": "接続詞",
+    "prompt": "I stayed home (     ) it was raining.",
+    "options": [
+      "because",
+      "but",
+      "or",
+      "so"
+    ],
+    "explain": "because の後に理由。「雨が降っていたので家にいた」。"
+  },
+  {
+    "id": 50,
+    "cat": "grammar",
+    "tag": "接続詞",
+    "prompt": "I was tired, (     ) I went to bed early.",
+    "options": [
+      "so",
+      "because",
+      "or",
+      "if"
+    ],
+    "explain": "so は「だから」。疲れていた → 早く寝た、という結果をつなぐ。"
+  },
+  {
+    "id": 51,
+    "cat": "grammar",
+    "tag": "疑問詞",
+    "prompt": "(     ) does it take? — About ten minutes.",
+    "options": [
+      "How long",
+      "How many",
+      "How much",
+      "How old"
+    ],
+    "explain": "所要時間は How long does it take? で尋ねる。"
+  },
+  {
+    "id": 52,
+    "cat": "grammar",
+    "tag": "疑問詞",
+    "prompt": "(     ) is this notebook? — Two dollars.",
+    "options": [
+      "How much",
+      "How many",
+      "How long",
+      "How often"
+    ],
+    "explain": "値段は How much。"
+  },
+  {
+    "id": 53,
+    "cat": "grammar",
+    "tag": "代名詞",
+    "prompt": "This pen is not mine. It is (     ).",
+    "options": [
+      "hers",
+      "her",
+      "she",
+      "herself"
+    ],
+    "explain": "「彼女のもの」は所有代名詞 hers。後ろに名詞は不要。"
+  },
+  {
+    "id": 54,
+    "cat": "grammar",
+    "tag": "前置詞",
+    "prompt": "Our school starts (     ) eight thirty.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "explain": "時刻の前は at。曜日・日付は on、月・年は in。"
+  },
+  {
+    "id": 55,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: Would you like some tea?\nB: (     )",
+    "options": [
+      "Yes, please.",
+      "It is mine.",
+      "I am twelve.",
+      "On Monday."
+    ],
+    "explain": "Would you like ...? は「〜はいかがですか」。受け取るときは Yes, please."
+  },
+  {
+    "id": 56,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: How was your weekend?\nB: (     )",
+    "options": [
+      "It was great.",
+      "By bus.",
+      "Next Sunday.",
+      "Two hours."
+    ],
+    "explain": "How was ...? は過去の感想を聞く表現。「楽しかったです」。"
+  },
+  {
+    "id": 57,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: May I use your pen?\nB: (     )",
+    "options": [
+      "Sure. Here you are.",
+      "Yes, I did.",
+      "It is sunny.",
+      "I am fine."
+    ],
+    "explain": "May I ...? は許可を求める表現。「もちろん。はいどうぞ」。"
+  },
+  {
+    "id": 58,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: Shall we play tennis?\nB: (     )",
+    "options": [
+      "That sounds good.",
+      "I am thirteen.",
+      "It is yours.",
+      "At the station."
+    ],
+    "explain": "Shall we ...? は「一緒に〜しませんか」。提案に賛成する返事。"
+  },
+  {
+    "id": 59,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: Thank you for your help.\nB: (     )",
+    "options": [
+      "You're welcome.",
+      "Me, too.",
+      "Yes, I am.",
+      "I like it."
+    ],
+    "explain": "お礼への返事は You are welcome.（どういたしまして）。"
+  },
+  {
+    "id": 60,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: What does your father do?\nB: (     )",
+    "options": [
+      "He is a teacher.",
+      "He is tall.",
+      "He is at home.",
+      "He is fine."
+    ],
+    "explain": "What does ... do? は仕事を聞く表現。"
+  },
+  {
+    "id": 61,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: How often do you swim?\nB: (     )",
+    "options": [
+      "Twice a week.",
+      "For two hours.",
+      "In the pool.",
+      "With my sister."
+    ],
+    "explain": "How often は頻度。「週に2回」。"
+  },
+  {
+    "id": 62,
+    "cat": "conversation",
+    "tag": "会話表現",
+    "prompt": "A: I have a headache.\nB: (     )",
+    "options": [
+      "You should get some rest.",
+      "Congratulations!",
+      "Happy birthday!",
+      "You are welcome."
+    ],
+    "explain": "headache は頭痛。should は「〜したほうがよい」。"
+  },
+  {
+    "id": 63,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "私は昨日とても忙しかった。",
+    "options": [
+      "I was very busy yesterday"
+    ],
+    "explain": "過去の be動詞 was を使います。",
+    "words": [
+      "I",
+      "was",
+      "very",
+      "busy",
+      "yesterday"
+    ]
+  },
+  {
+    "id": 64,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "彼は私より速く走れます。",
+    "options": [
+      "He can run faster than me"
+    ],
+    "explain": "can の後は原形 run。faster than で「〜より速く」。",
+    "words": [
+      "He",
+      "can",
+      "run",
+      "faster",
+      "than",
+      "me"
+    ]
+  },
+  {
+    "id": 65,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "私は何か飲むものが欲しい。",
+    "options": [
+      "I want something to drink"
+    ],
+    "explain": "something to drink で「何か飲むもの」。",
+    "words": [
+      "I",
+      "want",
+      "something",
+      "to",
+      "drink"
+    ]
+  },
+  {
+    "id": 66,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "彼女は料理をするのが好きです。",
+    "options": [
+      "She likes to cook"
+    ],
+    "explain": "like to + 動詞の原形。likes に三単現の s。",
+    "words": [
+      "She",
+      "likes",
+      "to",
+      "cook"
+    ]
+  },
+  {
+    "id": 67,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "あなたは明日何をする予定ですか。",
+    "options": [
+      "What are you going to do tomorrow"
+    ],
+    "explain": "What + are you going to + 動詞の原形?",
+    "words": [
+      "What",
+      "are",
+      "you",
+      "going",
+      "to",
+      "do",
+      "tomorrow"
+    ]
+  },
+  {
+    "id": 68,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "私たちは公園で昼食を食べました。",
+    "options": [
+      "We had lunch in the park"
+    ],
+    "explain": "have の過去形は had。have lunch で「昼食を食べる」。",
+    "words": [
+      "We",
+      "had",
+      "lunch",
+      "in",
+      "the",
+      "park"
+    ]
+  },
+  {
+    "id": 69,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "この本はあの本より面白い。",
+    "options": [
+      "This book is more interesting than that one"
+    ],
+    "explain": "more interesting than で「〜より面白い」。one は book の代わり。",
+    "words": [
+      "This",
+      "book",
+      "is",
+      "more",
+      "interesting",
+      "than",
+      "that",
+      "one"
+    ]
+  },
+  {
+    "id": 70,
+    "cat": "order",
+    "tag": "語順",
+    "prompt": "私にあなたの写真を見せてください。",
+    "options": [
+      "Please show me your pictures"
+    ],
+    "explain": "show + 人 + もの、で「人にものを見せる」。",
+    "words": [
+      "Please",
+      "show",
+      "me",
+      "your",
+      "pictures"
+    ]
+  },
+  {
+    "id": 71,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "Where will they practice?",
+    "options": [
+      "At Green Park.",
+      "At school.",
+      "At the station.",
+      "At Tom’s house."
+    ],
+    "explain": "Green Park と書かれています。",
+    "passage": "Hi Yuki,\nOur soccer club will practice at Green Park this Saturday. Please come at nine in the morning. Bring water and a towel. We will finish at eleven.\nSee you,\nTom"
+  },
+  {
+    "id": 72,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "How long will they practice?",
+    "options": [
+      "For two hours.",
+      "For one hour.",
+      "For three hours.",
+      "For four hours."
+    ],
+    "explain": "9時に始まり11時に終わるので2時間です。",
+    "passage": "Hi Yuki,\nOur soccer club will practice at Green Park this Saturday. Please come at nine in the morning. Bring water and a towel. We will finish at eleven.\nSee you,\nTom"
+  },
+  {
+    "id": 73,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "What should Yuki bring?",
+    "options": [
+      "Water and a towel.",
+      "A book and a pen.",
+      "Lunch and a bag.",
+      "A ticket and money."
+    ],
+    "explain": "Bring water and a towel. が根拠です。",
+    "passage": "Hi Yuki,\nOur soccer club will practice at Green Park this Saturday. Please come at nine in the morning. Bring water and a towel. We will finish at eleven.\nSee you,\nTom"
+  },
+  {
+    "id": 74,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "When does the sale start?",
+    "options": [
+      "At 3:30 p.m.",
+      "At 5:00 p.m.",
+      "At 3:00 p.m.",
+      "At 10:00 a.m."
+    ],
+    "explain": "3:30–5:00 p.m. の最初の時刻が開始時刻です。",
+    "passage": "SCHOOL BOOK SALE\nFriday, October 16\n3:30–5:00 p.m. in the school library\nAll books: 100 yen each\nPlease bring your own bag. The money will help us buy new books for the library."
+  },
+  {
+    "id": 75,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "How much are three books?",
+    "options": [
+      "300 yen.",
+      "100 yen.",
+      "200 yen.",
+      "500 yen."
+    ],
+    "explain": "1冊100円なので3冊で300円です。",
+    "passage": "SCHOOL BOOK SALE\nFriday, October 16\n3:30–5:00 p.m. in the school library\nAll books: 100 yen each\nPlease bring your own bag. The money will help us buy new books for the library."
+  },
+  {
+    "id": 76,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "Why is the school selling books?",
+    "options": [
+      "To buy new library books.",
+      "To build a park.",
+      "To buy bags.",
+      "To have a party."
+    ],
+    "explain": "The money will help us buy new books が目的です。",
+    "passage": "SCHOOL BOOK SALE\nFriday, October 16\n3:30–5:00 p.m. in the school library\nAll books: 100 yen each\nPlease bring your own bag. The money will help us buy new books for the library."
+  },
+  {
+    "id": 77,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "Who owns the farm?",
+    "options": [
+      "Emma’s uncle.",
+      "Emma’s teacher.",
+      "Emma’s friend.",
+      "Emma’s father."
+    ],
+    "explain": "her uncle’s farm は「おじの農場」。",
+    "passage": "Emma likes animals. Last year, she visited her uncle’s farm with her family. She helped him feed the cows every morning. At first, she was afraid of the big animals, but soon she enjoyed working with them. She wants to visit the farm again next summer."
+  },
+  {
+    "id": 78,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "What did Emma do every morning?",
+    "options": [
+      "She fed the cows.",
+      "She rode a horse.",
+      "She cooked lunch.",
+      "She cleaned her room."
+    ],
+    "explain": "feed the cows every morning が根拠。fed は feed の過去形。",
+    "passage": "Emma likes animals. Last year, she visited her uncle’s farm with her family. She helped him feed the cows every morning. At first, she was afraid of the big animals, but soon she enjoyed working with them. She wants to visit the farm again next summer."
+  },
+  {
+    "id": 79,
+    "cat": "reading",
+    "tag": "読解",
+    "prompt": "How did Emma feel at first?",
+    "options": [
+      "She was afraid.",
+      "She was bored.",
+      "She was angry.",
+      "She was hungry."
+    ],
+    "explain": "At first, she was afraid と明記されています。",
+    "passage": "Emma likes animals. Last year, she visited her uncle’s farm with her family. She helped him feed the cows every morning. At first, she was afraid of the big animals, but soon she enjoyed working with them. She wants to visit the farm again next summer."
+  },
+  {
+    "id": 80,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "At two thirty.",
+      "At two.",
+      "At three.",
+      "At three thirty."
+    ],
+    "explain": "映画は3時ですが、会う時刻は2時30分です。",
+    "audio": "A: What time does the movie start? B: At three. Let’s meet at two thirty. Question: What time will they meet?"
+  },
+  {
+    "id": 81,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "By bus.",
+      "On foot.",
+      "By bike.",
+      "By train."
+    ],
+    "explain": "普段は徒歩ですが、今日は雨なのでバスです。",
+    "audio": "A: How did you get to school today? B: I usually walk, but it was raining, so I took the bus. Question: How did the boy get to school today?"
+  },
+  {
+    "id": 82,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Orange juice.",
+      "Milk.",
+      "Water.",
+      "Tea."
+    ],
+    "explain": "飲み物を聞いています。orange juice が答えです。",
+    "audio": "A: What would you like for lunch? B: A sandwich, please. And some orange juice. Question: What does the girl want to drink?"
+  },
+  {
+    "id": 83,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "He studied math.",
+      "He played baseball.",
+      "He went shopping.",
+      "He watched a movie."
+    ],
+    "explain": "野球はしていません。家で数学を勉強しました。",
+    "audio": "A: Did you play baseball yesterday? B: No, I was busy. I studied math at home. Question: What did the boy do yesterday?"
+  },
+  {
+    "id": 84,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Under the desk.",
+      "On the desk.",
+      "By the door.",
+      "Under the bed."
+    ],
+    "explain": "under your desk は「机の下」。",
+    "audio": "A: Where is my bag? B: It is under your desk. Question: Where is the bag?"
+  },
+  {
+    "id": 85,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Her grandmother.",
+      "Her teacher.",
+      "Her friend.",
+      "Her aunt."
+    ],
+    "explain": "visit my grandmother を聞き取ります。",
+    "audio": "A: What are you going to do on Sunday? B: I am going to visit my grandmother. Question: Who will the girl visit?"
+  },
+  {
+    "id": 86,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "On Tuesday.",
+      "On Monday.",
+      "On Wednesday.",
+      "On Sunday."
+    ],
+    "explain": "月曜日の tomorrow（明日）は火曜日です。",
+    "audio": "Today is Monday. The library is closed today. It will open tomorrow at nine. Question: When will the library open?"
+  },
+  {
+    "id": 87,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Twelve.",
+      "Seven.",
+      "Fifteen.",
+      "Ten."
+    ],
+    "explain": "本人の年齢は Ben is twelve. 姉妹の年齢と区別します。",
+    "audio": "Ben has two sisters. His older sister is fifteen. His younger sister is seven. Ben is twelve. Question: How old is Ben?"
+  },
+  {
+    "id": 88,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Blue.",
+      "Red.",
+      "White.",
+      "Green."
+    ],
+    "explain": "欲しかった色は赤、実際に買ったのは青です。",
+    "audio": "Lisa wanted to buy a red shirt, but it was too expensive. She bought a blue one for ten dollars. Question: What color was the shirt Lisa bought?"
+  },
+  {
+    "id": 89,
+    "cat": "listening",
+    "tag": "聞き取り",
+    "prompt": "音声を聞いて、質問の答えを選ぼう。",
+    "options": [
+      "Their lunch.",
+      "Their books.",
+      "Their cameras.",
+      "Their umbrellas."
+    ],
+    "explain": "Please bring your lunch. が答えの根拠です。",
+    "audio": "Our class will go to the museum on Friday. Please bring your lunch. We will come back to school at four. Question: What should the students bring?"
+  }
+]
